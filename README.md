@@ -1,5 +1,13 @@
 # Network Segmentation & Security Design
 
+> **Portfolio Progression Project**
+>
+> This repository documents an earlier stage of my network engineering work, focused on VLAN segmentation, least-privilege access, and firewall design principles.
+>
+> The current implementation and expanded multi-site architecture are documented here:
+> [Enterprise-Style Homelab Infrastructure](https://github.com/Shaw4552/homelab-public)
+
+
 ## Overview
 
 This project documents a segmented network architecture designed to enforce least-privilege access and isolate device classes using VLANs and firewall policies.
@@ -62,7 +70,7 @@ This project documents a segmented network architecture designed to enforce leas
 
 ---
 
-## Future Improvements
+## Improvements Identified at This Stage
 
 - Rule automation
 - Logging and traffic analysis
